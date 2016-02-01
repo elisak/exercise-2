@@ -5,8 +5,7 @@ html {
 .btn {
   font-size: 1.5em;
   color: white;
-  background-color: lightblue;
-  padding: .5em;
+  background-image: linear-gradient(to bottom right, #E1BEE7, #B2EBF2);
 }
 
 a {
