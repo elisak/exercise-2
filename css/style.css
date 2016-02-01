@@ -3,11 +3,14 @@ html {
 }
 
 .btn {
-  font-size: 1em;
-  color: lightblue;
+  font-size: 1.5em;
+  color: white;
+  background-color: lightblue;
+  padding: .5em;
 }
 
 a {
+  font-weight: bold;
   text-decoration: none;
 }
 

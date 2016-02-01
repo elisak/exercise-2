@@ -1,13 +1,18 @@
 html{
 	font-family: $impact;
+	// background-color:$background;
 }
 
 .btn{
-	font-size:1em;
-	color:$lightblue;
+	font-size:1.5em;
+	color:$white;
+	background-image:$background-image
+	padding:.5em;
+
 }
 
 a{
+	font-weight:$bold;
 	text-decoration:none;
 	&:hover{
 		text-decoration: underline;
