@@ -6,8 +6,16 @@ html{
 .btn{
 	font-size:1.5em;
 	color:$white;
-	background-image:$background-image
+	background: -webkit-gradient(linear, 0 0, 100% 0, from(violet), to(lightblue));
+	 //color-stop(50%, lightblue));
+	margin:1em;
+	padding: 1em;
+	border-radius:.5em;
+	&:hover{
+		text-transform:uppercase;
+		background: -webkit-gradient(linear, 0 0, 100% 0, from(purple), to(skyblue));
 
+	}
 }
 
 a{
