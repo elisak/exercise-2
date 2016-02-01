@@ -1,0 +1,19 @@
+html{
+	font-family: $impact;
+}
+
+.btn{
+	font-size:1em;
+	color:$lightblue;
+}
+
+a{
+	text-decoration:none;
+	&:hover{
+		text-decoration: underline;
+	}
+}
+
+h1{
+	color:violet;
+}

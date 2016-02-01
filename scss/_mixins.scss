@@ -1,0 +1,10 @@
+@mixin btn{
+	color:$lightblue;
+	font:$impact;
+	font-size: 1em;
+	&:hover{
+		background-color:$hover;
+	}
+}
+
+

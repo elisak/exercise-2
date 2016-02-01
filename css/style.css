@@ -1,2 +1,22 @@
+html {
+  font-family: Charcoal, sans-serif;
+}
+
+.btn {
+  font-size: 1em;
+  color: lightblue;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  color: violet;
+}
 
 /*# sourceMappingURL=style.css.map */
